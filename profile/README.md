@@ -62,8 +62,8 @@ https://github.com/valyrian-coders
 
 | Member | GitHub | LinkedIn |
 |----------|----------|----------|
-| Alex Pandiyan | [GitHub](https://github.com/alexpandiyan1914) | [LinkedIn](https://www.linkedin.com/in/alexpandiyan1914/) |
-| Pavan Balamurugan | [GitHub](https://github.com/Pavan-Balamurugan) | [LinkedIn](https://www.linkedin.com/in/pavan-balamurugan/) |
+| Alexpandiyan | [GitHub](https://github.com/alexpandiyan1914) | [LinkedIn](https://www.linkedin.com/in/alexpandiyan1914/) |
+| Pavan  | [GitHub](https://github.com/Pavan-Balamurugan) | [LinkedIn](https://www.linkedin.com/in/pavan-balamurugan/) |
 
 </div>
 
